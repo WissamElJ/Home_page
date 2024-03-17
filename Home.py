@@ -15,7 +15,7 @@ st.markdown(
     
     Happy exploring!
 
-    - 👉 **Master's Thesis** : [What Makes a Good Speech](https://www.google.com)
+    - 👉 **Master's Thesis** : [What Makes a Good Speech](https://wissam-thesis.streamlit.app/)
     - 👉 **Dashboard Building** : [Kaggle Store Sales for Ecuador]
     - 👉 **Big Data Project** : [Churn Prediction]
     - 👉 **One more** : [menshouf]
