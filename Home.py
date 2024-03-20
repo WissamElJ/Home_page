@@ -16,10 +16,10 @@ st.markdown(
     Happy exploring!
 
     - 👉 **Master's Thesis** : [What Makes a Good Speech](https://wissam-thesis.streamlit.app/)
-    - 👉 **Dashboard Building** : [Kaggle Store Sales for Ecuador]
+    - 👉 **Dashboard Building** : [Kaggle Store Sales for Ecuador]()
     - 👉 **Big Data Project** : [Churn Prediction]
-    - 👉 **One more** : [menshouf]
-    - 👉 **Bachelor's Thesis** : [Bed Optimization & Management]
+    - 👉 **Bachelor's Thesis** : [Bed Optimization & Management](https://wissam-capstone.streamlit.app/)
+    - 👉 **Many more to come!**
     
 """
 )
