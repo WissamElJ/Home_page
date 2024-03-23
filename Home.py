@@ -15,7 +15,7 @@ st.markdown(
 
     - 👉 **Master's Thesis** : [What Makes a Good Speech](https://wissam-thesis.streamlit.app/)
     - 👉 **Dashboard Building** : [Kaggle Store Sales for Ecuador](https://wissam-dashboard.streamlit.app/Home)
-    - 👉 **Big Data Project** : [Churn Prediction](https://wissam-bigdata.streamlit.app/
+    - 👉 **Big Data Project** : [Churn Prediction](https://wissam-bigdata.streamlit.app/)
     - 👉 **Bachelor's Thesis** : [Bed Optimization & Management](https://wissam-capstone.streamlit.app/)
     - 👉 **Many more to come!**
     
