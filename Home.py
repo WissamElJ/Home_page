@@ -17,7 +17,7 @@ st.markdown(
     - 👉 **Dashboard Building** : [Kaggle Store Sales for Ecuador](https://wissam-dashboard.streamlit.app/Home)
     - 👉 **Business Intelligence Project** : [Churn Prediction](https://wissam-bigdata.streamlit.app/)
     - 👉 **Bachelor's Thesis** : [Bed Optimization & Management](https://wissam-capstone.streamlit.app/)
-    - 👉 **Many more to come!**
+    - 👉 **Many more to come!!**
     
 """
 )
